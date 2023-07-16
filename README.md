@@ -1,5 +1,5 @@
 # StackConceptAndPractice
- This repo include import knowledge of Stack.
+ This repo include important knowledge of Stack.
  
  The first code only performs postfix evaluation. The second code, in addition to performing postfix evaluation, also includes the functionality to read the postfix expression. The third code converts an infix expression to a postfix expression and then performs postfix evaluation.
  
